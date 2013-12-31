@@ -1,2 +1,2 @@
-simple_siite
+simple_site
 ============
